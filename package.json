@@ -1,0 +1,27 @@
+{
+  "name": "shoes",
+  "version": "1.0.0",
+  "description": "App used to order shoes from different places online",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack --watch",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/symlara/Shoes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/symlara/Shoes/issues"
+  },
+  "homepage": "https://github.com/symlara/Shoes#readme",
+  "devDependencies": {
+    "webpack": "^5.48.0",
+    "webpack-cli": "^4.7.2"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.0"
+  }
+}
